@@ -1,0 +1,9 @@
+## Interface: 90200
+## Title: |cFFFF00FFAntiBoostSpam|r
+## Notes: Filters Boost message from Tradechat
+## Version: 1.38
+## Author: Leoguy77
+## SavedVariables: LogData, AddonDB
+embeds.xml
+
+AntiBoostSpam.lua
